@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name="IPythonBG",
-    version="0.1",
+    name="ipython-bg",
+    version="0.2",
     packages=["ipython_bg"],
     license="MIT",
     author="Dror Speiser",
