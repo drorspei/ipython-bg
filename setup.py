@@ -9,6 +9,7 @@ setup(
     url="http://www.github.com/drorspei/ipython-bg",
     description="IPython magic to run jobs in background",
     long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
     keywords="ipython bg jobs",
     install_requires = ['ipython'],
     classifiers=[
